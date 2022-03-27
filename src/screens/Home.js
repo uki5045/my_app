@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from 'react'
 import axios from "axios";
-import { Container, Card, Row, Col, Button } from 'react-bootstrap'
+import { Container,  Row } from 'react-bootstrap'
 import {Poster} from "../components";
 
 const Home = () => {
